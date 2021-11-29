@@ -1,3 +1,1 @@
-## THIS IS THE DEPLOYMENT BRANCH
-
-## FOR MAIN BRANCH GO [HERE](https://github.com/Gladiator07/Harvestify)
+#### A machine learning based website that recommends the best crop to grow, fertilizers to use, and the diseases caught by your crops.
